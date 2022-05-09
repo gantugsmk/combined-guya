@@ -4,5 +4,26 @@
   "artist": "someone",
   "author": "alsosomeone",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Kei pleases old streamers for money",
+      "volume": "",
+      "last_updated": "1652103013",
+      "groups": {
+        "": [
+          "https://imgur.com/a/jDxpt26"
+        ]
+      }
+    },
+    "2": {
+      "title": "Kaguprez Living Together",
+      "volume": "",
+      "last_updated": "1652103052",
+      "groups": {
+        "": [
+          "https://imgur.com/a/N5Tnlv3"
+        ]
+      }
+    }
+  }
 }
